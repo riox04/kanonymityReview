@@ -1,0 +1,424 @@
+Outputs:
+ct\implement\Basic_Mondrian-master> python --version
+Python 2.7.16
+(py27_env) PS E:\College\sem6\Data Privacy\dataPrivacyProjecpython anonymizer.py a one        
+##############################
+Adult data
+##############################
+K=10
+Mondrian
+NCP 28.52%
+Running time 1.18seconds
+Finish Basic_Mondrian!!
+
+--------------------------------------------------------------------------
+
+(py27_env) PS E:\College\sem6\Data Ppython anonymizer.py a kt\implement\Basic_Mondrian-master>
+>>                                  python anonymizer.py a k
+##############################
+Adult data
+##############################
+##############################
+K=2
+Mondrian
+NCP 7.51%
+Running time 1.26seconds
+##############################
+K=5
+Mondrian
+NCP 19.62%
+Running time 1.24seconds
+##############################
+K=10
+Mondrian
+NCP 28.52%
+Running time 1.20seconds
+##############################
+K=25
+Mondrian
+NCP 36.64%
+Running time 1.05seconds
+##############################
+K=50
+Mondrian
+NCP 45.20%
+Running time 0.98seconds
+##############################
+K=100
+Mondrian
+NCP 51.14%
+Running time 0.91seconds
+All NCP [7.51, 19.62, 28.52, 36.64, 45.2, 51.14]
+All Running time [1.26, 1.24, 1.2, 1.05, 0.98, 0.91]
+Finish Basic_Mondrian!!
+
+--------------------------------------------------------------------------
+
+
+(py27_env) PS E:\College\sem6\Data Privacy\dataPrivacyProject\implement\Basic_Mondrian-master>
+ python anonymizer.py a data
+##############################
+Adult data
+##############################
+K=10
+##############################
+size of dataset 5000
+Average NCP 37.35%
+Running time 0.19seconds
+##############################
+size of dataset 10000
+Average NCP 32.61%
+Running time 0.38seconds
+##############################
+size of dataset 15000
+Average NCP 30.94%
+Running time 0.61seconds
+##############################
+size of dataset 20000
+Average NCP 29.98%
+Running time 0.80seconds
+##############################
+size of dataset 25000
+Average NCP 29.09%
+Running time 1.02seconds
+##############################
+size of dataset 30000
+Average NCP 28.31%
+Running time 1.19seconds
+##############################
+size of dataset 30162
+Average NCP 28.52%
+Running time 1.22seconds
+##############################
+All NCP [37.35, 32.61, 30.94, 29.98, 29.09, 28.31, 28.52]
+All Running time [0.19, 0.38, 0.61, 0.8, 1.02, 1.19, 1.22]
+Finish Basic_Mondrian!!
+
+--------------------------------------------------------------------------
+
+(py27_env) PS E:\College\sem6\Data Privacy\dataPrivacyProject\implement\Basic_Mondrian-master>
+ python anonymizer.py a qi  
+##############################
+Adult data
+##############################
+##############################
+Number of QI=1
+NCP 0.47%
+Running time 0.06seconds
+##############################
+Number of QI=2
+NCP 10.67%
+Running time 0.14seconds
+##############################
+Number of QI=3
+NCP 11.18%
+Running time 0.20seconds
+##############################
+Number of QI=4
+NCP 9.56%
+Running time 0.28seconds
+##############################
+Number of QI=5
+NCP 21.71%
+Running time 0.69seconds
+##############################
+Number of QI=6
+NCP 26.99%
+Running time 0.84seconds
+##############################
+Number of QI=7
+NCP 22.25%
+Running time 0.95seconds
+##############################
+Number of QI=8
+NCP 28.52%
+Running time 1.21seconds
+All NCP [0.47, 10.67, 11.18, 9.56, 21.71, 26.99, 22.25, 28.52]
+All Running time [0.06, 0.14, 0.2, 0.28, 0.69, 0.84, 0.95, 1.21]
+Finish Basic_Mondrian!!
+
+--------------------------------------------------------------------------
+
+(py27_env) PS E:\College\sem6\Data Privacy\dataPrivacyProject\implement\Basic_Mondrian-master>
+ python anonymizer.py i one
+##############################
+INFORMS data
+##############################
+K=10
+Mondrian
+NCP 18.52%
+Running time 2.48seconds
+Finish Basic_Mondrian!!
+
+--------------------------------------------------------------------------
+
+(py27_env) PS E:\College\sem6\Data Privacy\dataPrivacyProject\implement\Basic_Mondrian-master>
+ python anonymizer.py i k  
+##############################
+INFORMS data
+##############################
+##############################
+K=2
+Mondrian
+NCP 2.02%
+Running time 2.09seconds
+##############################
+K=5
+Mondrian
+NCP 6.41%
+Running time 1.82seconds
+##############################
+K=10
+Mondrian
+NCP 18.52%
+Running time 2.50seconds
+##############################
+K=25
+Mondrian
+NCP 23.20%
+Running time 2.43seconds
+##############################
+K=50
+Mondrian
+NCP 25.58%
+Running time 2.21seconds
+##############################
+K=100
+Mondrian
+NCP 36.64%
+Running time 2.25seconds
+All NCP [2.02, 6.41, 18.52, 23.2, 25.58, 36.64]
+All Running time [2.09, 1.82, 2.5, 2.43, 2.21, 2.25]
+Finish Basic_Mondrian!!
+
+--------------------------------------------------------------------------
+
+(py27_env) PS E:\College\sem6\Data Privacy\dataPrivacyProject\implement\Basic_Mondrian-master>
+ python anonymizer.py i data
+##############################
+INFORMS data
+##############################
+K=10
+##############################
+size of dataset 5000
+Average NCP 34.15%
+Running time 0.18seconds
+##############################
+size of dataset 10000
+Average NCP 24.08%
+Running time 0.36seconds
+##############################
+size of dataset 15000
+Average NCP 21.82%
+Running time 0.54seconds
+##############################
+size of dataset 20000
+Average NCP 21.13%
+Running time 0.75seconds
+##############################
+size of dataset 25000
+Average NCP 20.98%
+Running time 0.98seconds
+##############################
+size of dataset 30000
+Average NCP 20.30%
+Running time 1.22seconds
+##############################
+size of dataset 35000
+Average NCP 20.02%
+Running time 1.45seconds
+##############################
+size of dataset 40000
+Average NCP 19.42%
+Running time 1.68seconds
+##############################
+size of dataset 45000
+Average NCP 19.10%
+Running time 1.91seconds
+##############################
+size of dataset 50000
+Average NCP 18.98%
+Running time 2.27seconds
+##############################
+size of dataset 55000
+Average NCP 18.64%
+Running time 2.49seconds
+##############################
+size of dataset 58568
+Average NCP 18.52%
+Running time 2.59seconds
+##############################
+All NCP [34.15, 24.08, 21.82, 21.13, 20.98, 20.3, 20.02, 19.42, 19.1, 18.98, 18.64, 18.52]
+All Running time [0.18, 0.36, 0.54, 0.75, 0.98, 1.22, 1.45, 1.68, 1.91, 2.27, 2.49, 2.59]
+Finish Basic_Mondrian!!
+
+--------------------------------------------------------------------------
+
+(py27_env) PS E:\College\sem6\Data Privacy\dataPrivacyProject\implement\Basic_Mondrian-master> python anonymizer.py i qi  
+##############################
+INFORMS data
+##############################
+##############################
+Number of QI=1
+NCP 0.00%
+Running time 0.14seconds
+##############################
+Number of QI=2
+NCP 0.03%
+Running time 0.45seconds
+##############################
+Number of QI=3
+NCP 3.41%
+Running time 0.50seconds
+##############################
+Number of QI=4
+NCP 23.33%
+Running time 1.35seconds
+##############################
+Number of QI=5
+NCP 18.52%
+Running time 2.51seconds
+All NCP [0.0, 0.03, 3.41, 23.33, 18.52]
+All Running time [0.14, 0.45, 0.5, 1.35, 2.51]
+Finish Basic_Mondrian!!
+  
+--------------------------------------------------------------------------
+ 
+python anonymizer.py a k
+Adult data
+##############################
+K=2
+NCP 3.29%
+Running time 165.09seconds
+##############################
+K=5
+NCP 8.26%
+Running time 162.23seconds
+##############################
+K=10
+NCP 13.36%
+Running time 144.58seconds
+##############################
+K=25
+NCP 22.69%
+Running time 145.58seconds
+##############################
+K=50
+NCP 32.35%
+Running time 113.68seconds
+##############################
+K=100
+NCP 45.23%
+Running time 111.81seconds
+Finish Top_Down_Greedy_Anonymization!!
+--------------------------------------------------------------------------
+python anonymizer.py i k   
+INFORMS data
+##############################
+K=2
+NCP 1.49%
+Running time 256.59seconds
+##############################
+K=5
+NCP 4.24%
+Running time 227.95seconds
+##############################
+K=10
+NCP 7.43%
+Running time 215.30seconds
+##############################
+K=25
+NCP 12.95%
+Running time 199.76seconds
+##############################
+K=50
+NCP 19.21%
+Running time 168.29seconds
+##############################
+K=100
+NCP 27.24%
+Running time 155.22seconds
+Finish Top_Down_Greedy_Anonymization!!
+--------------------------------------------------------------------------
+python anonymizer.py a qi
+Adult data
+##############################
+Number of QI=8
+NCP 13.57%
+Running time 166.42seconds
+##############################
+Number of QI=7
+NCP 11.64%
+Running time 133.70seconds
+##############################
+Number of QI=6
+NCP 10.66%
+Running time 113.53seconds
+##############################
+Number of QI=5
+NCP 8.71%
+Running time 100.31seconds
+##############################
+Number of QI=4
+NCP 2.32%
+Running time 120.18seconds
+##############################
+Number of QI=3
+NCP 0.96%
+Running time 115.61seconds
+##############################
+Number of QI=2
+NCP 0.12%
+Running time 105.75seconds
+##############################
+Number of QI=1
+NCP 0.00%
+Running time 86.62seconds
+Finish Top_Down_Greedy_Anonymization!!
+--------------------------------------------------------------------------
+python anonymizer.py i qi
+INFORMS data
+##############################
+Number of QI=5
+NCP 7.33%
+Running time 184.98seconds
+##############################
+Number of QI=4
+NCP 6.45%
+Running time 137.63seconds
+##############################
+Number of QI=3
+NCP 0.84%
+Running time 123.25seconds
+##############################
+Number of QI=2
+NCP 0.00%
+Running time 79.87seconds
+##############################
+Number of QI=1
+NCP 0.00%
+Running time 944.46seconds
+Finish Top_Down_Greedy_Anonymization!!
+
+
+<----------------------------------------------------------------------------------------------------------->
+OUTPUT FOR PLOTTING.py
+<----------------------------------------------------------------------------------------------------------->
+Enter graph/table name (e.g. 'K-Anonymity for Adult Dataset'): K-Anonymity for Adult Dataset
+Enter X-axis label (e.g. 'K Values', 'Dataset Size', 'Number of QIs'): K Values
+Enter X-axis values (comma-separated): 2, 5, 10, 25, 50, 100
+Enter NCP values (comma-separated): 7.51, 19.62, 28.52, 36.64, 45.2, 51.14
+Enter Running Time values (comma-separated): 1.26, 1.24, 1.2, 1.05, 0.98, 0.91
+
+Table of K-Anonymity for Adult Dataset:
+   k_values    ncp  running_times
+0       2.0   7.51           1.26
+1       5.0  19.62           1.24
+2      10.0  28.52           1.20
+3      25.0  36.64           1.05
+4      50.0  45.20           0.98
+5     100.0  51.14           0.91
+
+Table saved to: k-anonymity_for_adult_dataset_table.csv
+Chart saved to: k-anonymity_for_adult_dataset_chart.png
+<----------------------------------------------------------------------------------------------------------->
