@@ -2,12 +2,9 @@
 # -*- coding: utf-8 -*-
 
 """
-K-Anonymity Visualization Tool
-
 This script creates tables and charts from K-anonymity experimental results
 with dynamic inputs for different types of analyses.
 """
-# Add these lines at the beginning of your script, before importing pyplot
 
 import matplotlib
 matplotlib.use('Agg')
@@ -124,8 +121,8 @@ def get_input_list(prompt):
 if __name__ == "__main__":
     print("\nK-Anonymity Visualization Tool")
     print("==============================")
-    
-    # Show examples if requested
+
+    #examples if needed
     # if "-e" in [arg.lower() for arg in [a for a in np.array(raw_input("Show examples? (y/n): ").lower())]]:
     #     print_examples()
     
